@@ -1,0 +1,13 @@
+{
+  "movie_count": 2000,
+  "html_files": 2017,
+  "detail_files": 2000,
+  "category_files": 12,
+  "category_card_count": 2000,
+  "missing_baidu_count": 0,
+  "missing_detail_count": 0,
+  "hls_exists": true,
+  "mp4_exists": true,
+  "zip_path": "/mnt/data/movie_static_site.zip",
+  "zip_size": 15388675
+}
